@@ -6,3 +6,6 @@ target/
 .idea/
 *.log
 .env
+.metals/
+.bloop/
+*.class
